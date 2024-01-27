@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Profile card component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehdias63/qr-code)
-- Live Site URL: [Add live site URL here](https://qr-code-one-dun.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/mehdias63/Profile-Card-Component)
+- Live Site URL: [Add live site URL here](https://profile-card-component-chi-khaki.vercel.app)
 
 ## My process
 
